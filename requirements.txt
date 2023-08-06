@@ -1,0 +1,10 @@
+boto3
+pyspark
+pandas
+selenium
+bs4
+lxml
+selenium-stealth
+datetime
+
+
