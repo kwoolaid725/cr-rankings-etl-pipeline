@@ -3,5 +3,5 @@
 
 
 
-<img width="900" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-pipeline/assets/107806433/83fd86c9-4890-4bcf-806b-d4bcd521429c">
+![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/720db42b-1560-428d-b5b2-cdbebf14fe31)
 
